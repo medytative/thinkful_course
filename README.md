@@ -6,6 +6,13 @@ This is my sandbox where I play around with new concepts and data science tools,
 
 ### Concepts and tools
 
+* **Visualizations**
+ * Matplotlib
+ * Seaborn
+ * Word Clouds
+ 
+* **Experimentation & Significance Testing**
+
 * **Supervised Learning**
   * Linear & Logistic Regression
   * Naive Bayes Classifier
